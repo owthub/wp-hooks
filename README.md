@@ -1,1 +1,1 @@
-# wp-hooks
+# Wordpress Hooks
