@@ -1,0 +1,1 @@
+/* This is test JS file which we are going to attach below footer element */
